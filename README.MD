@@ -11,9 +11,7 @@
 
 ## 📊 My Amazing Stats:
 ### 1. My GitHub Journey:
-<img src="https://github-readme-stats.vercel.app/api?username=abhijeet-Bh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=abhijeet-Bh&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=abhijeet-Bh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />![GitHub Streak](https://streak-stats.demolab.com/?user=abhijeet-Bh&theme=tokyonight&hide_border=true)
 
 ### 2. My LeetCode Journey:
 ![](https://leetcard.jacoblin.cool/abhijeetBh?border=0&radius=4)
