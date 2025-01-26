@@ -1,53 +1,39 @@
-# 👋 Hi, I'm Abhijeet Bhardwaj!
+# Hi there, I'm Abhijeet Bhardwaj! 👋
 
-Welcome to my GitHub profile! Here's a snapshot of what I do and my contributions to the developer community.
-
----
-
-## 🚀 Technologies I've Worked On
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+🚀 Passionate Developer | Mobile & Backend Enthusiast
 
 ---
 
-## 🛠️ Recent Work
-### Most Recent Repository
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhijeetbhardwaj&repo=your-repo-name&theme=tokyonight)](https://github.com/abhijeetbhardwaj/your-repo-name)
-
-### Most Recent Organization
-[![Organization](https://img.shields.io/badge/-Appointy-%23248BEC?style=for-the-badge&logo=github)](https://github.com/Appointy)
+## 🛠️ **My Tech Stack**
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 📊 GitHub Contributions
-![GitHub Streak](https://streak-stats.demolab.com/?user=abhijeetbhardwaj&theme=tokyonight&hide_border=true)
+## 📊 My Amazing Stats:
+### 1. My GitHub Journey:
+<img src="https://github-readme-stats.vercel.app/api?username=abhijeet-Bh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-![Abhijeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijeetbhardwaj&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=abhijeet-Bh&theme=tokyonight&hide_border=true)
 
----
-
-## 🏆 Achievements
-- **Open Source Contributions**: [Your open-source project](https://github.com/abhijeetbhardwaj/your-open-source-project)
-- **Hackathons**: Winner of XYZ Hackathon
+### 2. My LeetCode Journey:
+![](https://leetcard.jacoblin.cool/abhijeetBh?border=0&radius=4)
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/abhijeetbhardwaj)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/abhijeetbhardwaj)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/abhijeetbhardwaj)
+## 🌟 Recent Highlights:
+- **Latest Repo**: [hrelix](https://github.com/abhijeet-Bh/hrelix)
+- **Organizations**:
+    - [GDGVIT](https://github.com/GDGVIT)
+    - [BluFin-Designs](https://github.com/BluFin-Designs)
 
 ---
 
-## 💻 Coding Stats (Weekly Activity)
-<!-- Wakatime stats -->
-![Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=abhijeetbhardwaj&theme=tokyonight)
+## 💼 Connect With Me:
+- **LinkedIn**: [Abhijeet Bhardwaj](https://www.linkedin.com/in/abhijeet-bh/)
+- **LeetCode**: [Profile Link](https://leetcode.com/u/abhijeetBh/)
 
 ---
 
-## 🎯 Fun Fact
-_"Programming is like magic, but the keyboard is your wand!"_
+## 🎯 Domains of Expertise:
+- 📱 Mobile Application Development
+- ⚙️ Backend Development
